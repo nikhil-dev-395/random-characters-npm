@@ -1,0 +1,20 @@
+{
+  "name": "sum",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "random characters",
+    "node js",
+    "npmjs"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/your-repo.git"
+  },
+  "author": "nikhil wankhade",
+  "license": "ISC",
+  "description": "generate random characters using node js,  for some task like unique id or other things"
+}
