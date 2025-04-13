@@ -9,3 +9,4 @@ function main(length) {
   return random;
 }
 
+module.exports = main;
