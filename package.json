@@ -1,9 +1,10 @@
 {
-  "name": "sum",
+  "name": "@nikhilw395/mixgen",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js",
+    "dev": "node --watch  index.js"
   },
   "keywords": [
     "random characters",
@@ -12,9 +13,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/your-repo.git"
+    "url": "https://github.com/nikhil-dev-395/random-characters-npm.git"
   },
   "author": "nikhil wankhade",
   "license": "ISC",
-  "description": "generate random characters using node js,  for some task like unique id or other things"
+  "description": "generate random characters using node js,  for some task like unique id or other things",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
 }
